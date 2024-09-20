@@ -1,0 +1,1302 @@
+[
+    {
+        "Nome": 1,
+        "Instagram": "Gabriel Tadeu",
+        "Vendas": 7202.0
+    },
+    {
+        "Nome": 2,
+        "Instagram": "Mateus Batista (adm)",
+        "Vendas": 97.0
+    },
+    {
+        "Nome": 3,
+        "Instagram": "Marlon Henrique ",
+        "Vendas": 7522.0
+    },
+    {
+        "Nome": 4,
+        "Instagram": "Iago Gabino ",
+        "Vendas": 1124.0
+    },
+    {
+        "Nome": 5,
+        "Instagram": "Larissa Silva",
+        "Vendas": 8624.0
+    },
+    {
+        "Nome": 6,
+        "Instagram": "Henrique C\u00e9sar",
+        "Vendas": 2938.0
+    },
+    {
+        "Nome": 7,
+        "Instagram": "Kelvin Vieira",
+        "Vendas": 3202.0
+    },
+    {
+        "Nome": 8,
+        "Instagram": "Daniel Carvalho ",
+        "Vendas": 2227.0
+    },
+    {
+        "Nome": 9,
+        "Instagram": "Davi Leandro",
+        "Vendas": 6608.0
+    },
+    {
+        "Nome": 10,
+        "Instagram": "Paloma Camargos ",
+        "Vendas": 3968.0
+    },
+    {
+        "Nome": 11,
+        "Instagram": "Matheus Tolentino",
+        "Vendas": 3655.0
+    },
+    {
+        "Nome": 12,
+        "Instagram": "Matheus da Cruz",
+        "Vendas": 3241.0
+    },
+    {
+        "Nome": 13,
+        "Instagram": "Kevyn",
+        "Vendas": 7253.0
+    },
+    {
+        "Nome": 14,
+        "Instagram": "Gabriel Sacoman",
+        "Vendas": 8950.0
+    },
+    {
+        "Nome": 15,
+        "Instagram": "Catarina Rodrigues",
+        "Vendas": 1583.0
+    },
+    {
+        "Nome": 16,
+        "Instagram": "Arthur Gontijo",
+        "Vendas": 7513.0
+    },
+    {
+        "Nome": 17,
+        "Instagram": "Rafael Magalh\u00e3es Fonseca",
+        "Vendas": 6894.0
+    },
+    {
+        "Nome": 18,
+        "Instagram": "Esther Castro",
+        "Vendas": 8664.0
+    },
+    {
+        "Nome": 19,
+        "Instagram": "Vin\u00edcius de Oliveira Santos",
+        "Vendas": 937.0
+    },
+    {
+        "Nome": 20,
+        "Instagram": "Elson Lopes Pereira Junior",
+        "Vendas": 1698.0
+    },
+    {
+        "Nome": 21,
+        "Instagram": "Lucas Araujo De Paula",
+        "Vendas": 8482.0
+    },
+    {
+        "Nome": 22,
+        "Instagram": "Ver\u00f4nica Guimar\u00e3es",
+        "Vendas": 26.0
+    },
+    {
+        "Nome": 23,
+        "Instagram": "Pedro Vitor ",
+        "Vendas": 6124.0
+    },
+    {
+        "Nome": 24,
+        "Instagram": "Paula Diniz ",
+        "Vendas": 1404.0
+    },
+    {
+        "Nome": 25,
+        "Instagram": "Giovanna Lyssa",
+        "Vendas": 230.0
+    },
+    {
+        "Nome": 26,
+        "Instagram": "Arthur Linhares Madureira ",
+        "Vendas": 5206.0
+    },
+    {
+        "Nome": 27,
+        "Instagram": "Mateus Henrique ",
+        "Vendas": 3560.0
+    },
+    {
+        "Nome": 28,
+        "Instagram": "Diego de Castro",
+        "Vendas": 5326.0
+    },
+    {
+        "Nome": 29,
+        "Instagram": "Larissa Renner",
+        "Vendas": 3109.0
+    },
+    {
+        "Nome": 30,
+        "Instagram": "Aron Augusto ",
+        "Vendas": 4142.0
+    },
+    {
+        "Nome": 31,
+        "Instagram": "Luiz Eduardo Guimar\u00e3es Lima",
+        "Vendas": 2616.0
+    },
+    {
+        "Nome": 32,
+        "Instagram": "Gabriela Oliveira Muratori Ramos",
+        "Vendas": 2522.0
+    },
+    {
+        "Nome": 33,
+        "Instagram": "Vivian Camargos ",
+        "Vendas": 1892.0
+    },
+    {
+        "Nome": 34,
+        "Instagram": "Ronan Resende",
+        "Vendas": 8458.0
+    },
+    {
+        "Nome": 35,
+        "Instagram": "Miguel de Ara\u00fajo  ",
+        "Vendas": 8859.0
+    },
+    {
+        "Nome": 36,
+        "Instagram": "Julia Macedo",
+        "Vendas": 2424.0
+    },
+    {
+        "Nome": 37,
+        "Instagram": "Rafael Martins",
+        "Vendas": 5656.0
+    },
+    {
+        "Nome": 38,
+        "Instagram": "Pedro Mendes",
+        "Vendas": 2711.0
+    },
+    {
+        "Nome": 39,
+        "Instagram": "Julia Polito",
+        "Vendas": 8520.0
+    },
+    {
+        "Nome": 40,
+        "Instagram": "Pedro Henrique Gusm\u00e3o Chagas",
+        "Vendas": 4150.0
+    },
+    {
+        "Nome": 41,
+        "Instagram": "Luiz Henrique Ara\u00fajo Braz",
+        "Vendas": 8842.0
+    },
+    {
+        "Nome": 42,
+        "Instagram": "Gisela Rodrigues",
+        "Vendas": 8763.0
+    },
+    {
+        "Nome": 43,
+        "Instagram": "Henrique Bueno Galvani Quinette",
+        "Vendas": 3062.0
+    },
+    {
+        "Nome": 44,
+        "Instagram": "Sollayne carmelita",
+        "Vendas": 1625.0
+    },
+    {
+        "Nome": 45,
+        "Instagram": "D\u00eanis Luiz dos Reis Dias",
+        "Vendas": 3265.0
+    },
+    {
+        "Nome": 46,
+        "Instagram": "Walter",
+        "Vendas": 4747.0
+    },
+    {
+        "Nome": 47,
+        "Instagram": "Vitor Heleno ",
+        "Vendas": 6759.0
+    },
+    {
+        "Nome": 48,
+        "Instagram": "Vinicius Marques ",
+        "Vendas": 9823.0
+    },
+    {
+        "Nome": 49,
+        "Instagram": "Tulio Le\u00e3o Cortez ",
+        "Vendas": 2015.0
+    },
+    {
+        "Nome": 50,
+        "Instagram": "Rodrigo Brand\u00e3o",
+        "Vendas": 220.0
+    },
+    {
+        "Nome": 51,
+        "Instagram": "Max Ant\u00e3o",
+        "Vendas": 4831.0
+    },
+    {
+        "Nome": 52,
+        "Instagram": "Luiz Henrique ",
+        "Vendas": 8842.0
+    },
+    {
+        "Nome": 53,
+        "Instagram": "Luiz Freitas ",
+        "Vendas": 9464.0
+    },
+    {
+        "Nome": 54,
+        "Instagram": "Luiz Felipe Barboza Diniz ",
+        "Vendas": 5369.0
+    },
+    {
+        "Nome": 55,
+        "Instagram": "Virginie Rodrigues \n",
+        "Vendas": 9822.0
+    },
+    {
+        "Nome": 56,
+        "Instagram": "Lucas Gustavo Almeida ",
+        "Vendas": 289.0
+    },
+    {
+        "Nome": 57,
+        "Instagram": "Keila Malta",
+        "Vendas": 184.0
+    },
+    {
+        "Nome": 58,
+        "Instagram": "Jo\u00e3o Vitor Medeiros",
+        "Vendas": 9049.0
+    },
+    {
+        "Nome": 59,
+        "Instagram": "Jo\u00e3o Vitor Batista",
+        "Vendas": 5974.0
+    },
+    {
+        "Nome": 60,
+        "Instagram": "Jo\u00e3o Pedro ",
+        "Vendas": 1205.0
+    },
+    {
+        "Nome": 61,
+        "Instagram": "Joanna Brito",
+        "Vendas": 335.0
+    },
+    {
+        "Nome": 62,
+        "Instagram": "Henrique Araujo",
+        "Vendas": 2201.0
+    },
+    {
+        "Nome": 63,
+        "Instagram": "Gustavo Chaves ",
+        "Vendas": 3427.0
+    },
+    {
+        "Nome": 64,
+        "Instagram": "Gabriel Ventura",
+        "Vendas": 6517.0
+    },
+    {
+        "Nome": 65,
+        "Instagram": "Fernando Lima",
+        "Vendas": 7616.0
+    },
+    {
+        "Nome": 66,
+        "Instagram": "Elias Elis",
+        "Vendas": 9636.0
+    },
+    {
+        "Nome": 67,
+        "Instagram": "Eduardo Castro",
+        "Vendas": 5010.0
+    },
+    {
+        "Nome": 68,
+        "Instagram": "Breno Abreu ",
+        "Vendas": 7051.0
+    },
+    {
+        "Nome": 69,
+        "Instagram": "Artur Luiz Martins Gomes ",
+        "Vendas": 6760.0
+    },
+    {
+        "Nome": 70,
+        "Instagram": "Ana Luiza ",
+        "Vendas": 9832.0
+    },
+    {
+        "Nome": 71,
+        "Instagram": "Ana Carolina Klingspiegel",
+        "Vendas": 9500.0
+    },
+    {
+        "Nome": 72,
+        "Instagram": "William Arthur",
+        "Vendas": 7952.0
+    },
+    {
+        "Nome": 73,
+        "Instagram": "Rafael Gontijo",
+        "Vendas": 8550.0
+    },
+    {
+        "Nome": 74,
+        "Instagram": "Enzo Henrique Martins da Silva",
+        "Vendas": 5576.0
+    },
+    {
+        "Nome": 75,
+        "Instagram": "Isabella Leandra",
+        "Vendas": 1675.0
+    },
+    {
+        "Nome": 76,
+        "Instagram": "Erasmo Magalh\u00e3es",
+        "Vendas": 2261.0
+    },
+    {
+        "Nome": 77,
+        "Instagram": "Hugo Lana Fialho",
+        "Vendas": 5872.0
+    },
+    {
+        "Nome": 78,
+        "Instagram": "Clarissa Lobo Veloso",
+        "Vendas": 8961.0
+    },
+    {
+        "Nome": 79,
+        "Instagram": "S\u00e2milla Murta Lima",
+        "Vendas": 908.0
+    },
+    {
+        "Nome": 80,
+        "Instagram": "Antonio Augusto Ribeiro",
+        "Vendas": 1018.0
+    },
+    {
+        "Nome": 81,
+        "Instagram": "Ca\u00edque Patr\u00edcio",
+        "Vendas": 9573.0
+    },
+    {
+        "Nome": 82,
+        "Instagram": "Andr\u00e9 Parreiras",
+        "Vendas": 9529.0
+    },
+    {
+        "Nome": 83,
+        "Instagram": "Filipe Fernandes",
+        "Vendas": 9161.0
+    },
+    {
+        "Nome": 84,
+        "Instagram": "Caique Izidoro",
+        "Vendas": 7589.0
+    },
+    {
+        "Nome": 85,
+        "Instagram": "Pollyana Lellis",
+        "Vendas": 2702.0
+    },
+    {
+        "Nome": 86,
+        "Instagram": "Vinicius Marques\n",
+        "Vendas": 9823.0
+    },
+    {
+        "Nome": 87,
+        "Instagram": "Dharlan Ferreira\n",
+        "Vendas": 7573.0
+    },
+    {
+        "Nome": 88,
+        "Instagram": "Thales Cafiero ",
+        "Vendas": 6003.0
+    },
+    {
+        "Nome": 89,
+        "Instagram": "Julia Floresta\n",
+        "Vendas": 5332.0
+    },
+    {
+        "Nome": 90,
+        "Instagram": "Lucas Fernande\n",
+        "Vendas": 9264.0
+    },
+    {
+        "Nome": 91,
+        "Instagram": "Wellington Lopes\n",
+        "Vendas": 8014.0
+    },
+    {
+        "Nome": 92,
+        "Instagram": "Yago Nunes flores ",
+        "Vendas": 4481.0
+    },
+    {
+        "Nome": 93,
+        "Instagram": "Pedro Henrique de Oliveira Borges",
+        "Vendas": 9520.0
+    },
+    {
+        "Nome": 94,
+        "Instagram": "Maria Eduarda Ara\u00fajo",
+        "Vendas": 5796.0
+    },
+    {
+        "Nome": 95,
+        "Instagram": "Paulo Henrique Maciel\n",
+        "Vendas": 1942.0
+    },
+    {
+        "Nome": 96,
+        "Instagram": "Talita Lima ",
+        "Vendas": 69.0
+    },
+    {
+        "Nome": 97,
+        "Instagram": "Marco Motta",
+        "Vendas": 6871.0
+    },
+    {
+        "Nome": 98,
+        "Instagram": "otavio.res",
+        "Vendas": 8489.0
+    },
+    {
+        "Nome": 99,
+        "Instagram": "erasmobibiano",
+        "Vendas": 2261.0
+    },
+    {
+        "Nome": 100,
+        "Instagram": "Guilherme Veloso",
+        "Vendas": 3356.0
+    },
+    {
+        "Nome": 101,
+        "Instagram": "Ana Luiza Magela ",
+        "Vendas": 9832.0
+    },
+    {
+        "Nome": 102,
+        "Instagram": "Gustavo Lobato",
+        "Vendas": 973.0
+    },
+    {
+        "Nome": 103,
+        "Instagram": "Carolina Lima Rodrigues",
+        "Vendas": 2428.0
+    },
+    {
+        "Nome": 104,
+        "Instagram": "Luiz Henrique Oliveira",
+        "Vendas": 2772.0
+    },
+    {
+        "Nome": 105,
+        "Instagram": "Leticia Delavy",
+        "Vendas": 2292.0
+    },
+    {
+        "Nome": 106,
+        "Instagram": "Maicon Douglas",
+        "Vendas": 3931.0
+    },
+    {
+        "Nome": 107,
+        "Instagram": "Mickaell Costa ",
+        "Vendas": 4644.0
+    },
+    {
+        "Nome": 108,
+        "Instagram": "Bruno Elias ",
+        "Vendas": 214.0
+    },
+    {
+        "Nome": 109,
+        "Instagram": "Gabriel Yuri De Ara\u00fajo e Silva",
+        "Vendas": 4046.0
+    },
+    {
+        "Nome": 110,
+        "Instagram": "Luiz Felipe Lopes Lima",
+        "Vendas": 3275.0
+    },
+    {
+        "Nome": 111,
+        "Instagram": "Jo\u00e3o Pedro Fernandes Melo",
+        "Vendas": 911.0
+    },
+    {
+        "Nome": 112,
+        "Instagram": "Artur Gonzaga",
+        "Vendas": 9878.0
+    },
+    {
+        "Nome": 113,
+        "Instagram": "Lucas Silva",
+        "Vendas": 8671.0
+    },
+    {
+        "Nome": 114,
+        "Instagram": "Bernardo Prosdocimi",
+        "Vendas": 8141.0
+    },
+    {
+        "Nome": 115,
+        "Instagram": "Pedro Bueno ",
+        "Vendas": 638.0
+    },
+    {
+        "Nome": 116,
+        "Instagram": "Pedro Santos Fran\u00e7a",
+        "Vendas": 7034.0
+    },
+    {
+        "Nome": 117,
+        "Instagram": "Pedro Atalla",
+        "Vendas": 7147.0
+    },
+    {
+        "Nome": 118,
+        "Instagram": "Thiago Costa Couto Oliveira",
+        "Vendas": 284.0
+    },
+    {
+        "Nome": 119,
+        "Instagram": "Rafael Viana",
+        "Vendas": 9543.0
+    },
+    {
+        "Nome": 120,
+        "Instagram": "Felipe Silva Faria",
+        "Vendas": 7953.0
+    },
+    {
+        "Nome": 121,
+        "Instagram": "Gabriel de Almeida Alves Vieira",
+        "Vendas": 7997.0
+    },
+    {
+        "Nome": 122,
+        "Instagram": "Bernardo Prosdocimi Lamounier Soares",
+        "Vendas": 8141.0
+    },
+    {
+        "Nome": 123,
+        "Instagram": "Ant\u00f4nio Celso Aguiar Moura",
+        "Vendas": 392.0
+    },
+    {
+        "Nome": 124,
+        "Instagram": "Isabela Couto",
+        "Vendas": 1341.0
+    },
+    {
+        "Nome": 125,
+        "Instagram": "Alice Biciati",
+        "Vendas": 3693.0
+    },
+    {
+        "Nome": 126,
+        "Instagram": "Gustavo Silveira",
+        "Vendas": 7579.0
+    },
+    {
+        "Nome": 127,
+        "Instagram": "Renzo Gomes Alvim",
+        "Vendas": 2205.0
+    },
+    {
+        "Nome": 128,
+        "Instagram": "Gabriel Barbosa de Oliveira\u00a0Souza",
+        "Vendas": 307.0
+    },
+    {
+        "Nome": 129,
+        "Instagram": "Talles Sales",
+        "Vendas": 3005.0
+    },
+    {
+        "Nome": 130,
+        "Instagram": " Nathan Felipe",
+        "Vendas": 9764.0
+    },
+    {
+        "Nome": 131,
+        "Instagram": "Nuri Mac\u00eado ",
+        "Vendas": 732.0
+    },
+    {
+        "Nome": 132,
+        "Instagram": "Lucas Henrique Soares de Sousa",
+        "Vendas": 6935.0
+    },
+    {
+        "Nome": 133,
+        "Instagram": "Jo\u00e3o Vitor Lima Gomes",
+        "Vendas": 2003.0
+    },
+    {
+        "Nome": 134,
+        "Instagram": "Igor Lana",
+        "Vendas": 8077.0
+    },
+    {
+        "Nome": 135,
+        "Instagram": "Jean Carlos",
+        "Vendas": 721.0
+    },
+    {
+        "Nome": 136,
+        "Instagram": "Diego Cirera",
+        "Vendas": 1551.0
+    },
+    {
+        "Nome": 137,
+        "Instagram": "Ian Braga",
+        "Vendas": 5475.0
+    },
+    {
+        "Nome": 138,
+        "Instagram": "Pedro In\u00e1cio ",
+        "Vendas": 3753.0
+    },
+    {
+        "Nome": 139,
+        "Instagram": "Maria Eduarda",
+        "Vendas": 3050.0
+    },
+    {
+        "Nome": 140,
+        "Instagram": "Eider Coelho Moreira",
+        "Vendas": 1452.0
+    },
+    {
+        "Nome": 141,
+        "Instagram": "Gabriel Santos Almeida ",
+        "Vendas": 0.0
+    },
+    {
+        "Nome": 142,
+        "Instagram": "Waltter Netto",
+        "Vendas": 8305.0
+    },
+    {
+        "Nome": 143,
+        "Instagram": "juan antonio monteleone sena ",
+        "Vendas": 9725.0
+    },
+    {
+        "Nome": 144,
+        "Instagram": "Nathan Felipe pereira de Sousa ",
+        "Vendas": 9764.0
+    },
+    {
+        "Nome": 145,
+        "Instagram": "Naelly Cristine",
+        "Vendas": 8278.0
+    },
+    {
+        "Nome": 146,
+        "Instagram": "Guilherme Villani",
+        "Vendas": 1366.0
+    },
+    {
+        "Nome": 147,
+        "Instagram": "William Las-Cazas Queiroz",
+        "Vendas": 9288.0
+    },
+    {
+        "Nome": 148,
+        "Instagram": "Matheus Felipe Penido da Fonseca",
+        "Vendas": 4769.0
+    },
+    {
+        "Nome": 149,
+        "Instagram": "Matheus Sousa Ara\u00fajo",
+        "Vendas": 2099.0
+    },
+    {
+        "Nome": 150,
+        "Instagram": "Aline Oliveira Rodrigues",
+        "Vendas": 316.0
+    },
+    {
+        "Nome": 151,
+        "Instagram": "Kamille Vit\u00f3ria Antunes ",
+        "Vendas": 9793.0
+    },
+    {
+        "Nome": 152,
+        "Instagram": "Ana Carolina Nogueira Gomes",
+        "Vendas": 796.0
+    },
+    {
+        "Nome": 153,
+        "Instagram": "Isadora Lima",
+        "Vendas": 2882.0
+    },
+    {
+        "Nome": 154,
+        "Instagram": "Pedro Chaves",
+        "Vendas": 1921.0
+    },
+    {
+        "Nome": 155,
+        "Instagram": "Maria Eduarda dos Santos Pedro",
+        "Vendas": 7345.0
+    },
+    {
+        "Nome": 156,
+        "Instagram": "Joanna Brito",
+        "Vendas": 335.0
+    },
+    {
+        "Nome": 157,
+        "Instagram": "Bernardo Assis ",
+        "Vendas": 9205.0
+    },
+    {
+        "Nome": 158,
+        "Instagram": "Arthur Gustavo ",
+        "Vendas": 817.0
+    },
+    {
+        "Nome": 159,
+        "Instagram": "S\u00e1vio Paulo de Oliveira Ferreira ",
+        "Vendas": 7213.0
+    },
+    {
+        "Nome": 160,
+        "Instagram": "Gustavo Cardoso",
+        "Vendas": 5330.0
+    },
+    {
+        "Nome": 161,
+        "Instagram": "Luan Oliveira ",
+        "Vendas": 8288.0
+    },
+    {
+        "Nome": 162,
+        "Instagram": "Arthur Ramos",
+        "Vendas": 3374.0
+    },
+    {
+        "Nome": 163,
+        "Instagram": "Ricardo Freitas ",
+        "Vendas": 2565.0
+    },
+    {
+        "Nome": 164,
+        "Instagram": "Leonardo Bueno Paiva",
+        "Vendas": 9968.0
+    },
+    {
+        "Nome": 165,
+        "Instagram": "Arthur Mota",
+        "Vendas": 2211.0
+    },
+    {
+        "Nome": 166,
+        "Instagram": "Ryan Portugal Tacchi Ramalho",
+        "Vendas": 1108.0
+    },
+    {
+        "Nome": 167,
+        "Instagram": "Huddson Leandro ",
+        "Vendas": 5811.0
+    },
+    {
+        "Nome": 168,
+        "Instagram": "Felipe Fernandes Araujo",
+        "Vendas": 1834.0
+    },
+    {
+        "Nome": 169,
+        "Instagram": "Erick Dias",
+        "Vendas": 8966.0
+    },
+    {
+        "Nome": 170,
+        "Instagram": "Matheus Ara\u00fajo",
+        "Vendas": 5768.0
+    },
+    {
+        "Nome": 171,
+        "Instagram": "Ot\u00e1vio Lara",
+        "Vendas": 3157.0
+    },
+    {
+        "Nome": 172,
+        "Instagram": "Rafael Fabiano",
+        "Vendas": 0.0
+    },
+    {
+        "Nome": 173,
+        "Instagram": "Miguel Barsante",
+        "Vendas": 4136.0
+    },
+    {
+        "Nome": 174,
+        "Instagram": "Gabriel Borges",
+        "Vendas": 6176.0
+    },
+    {
+        "Nome": 175,
+        "Instagram": "Isabelle Amorim",
+        "Vendas": 2101.0
+    },
+    {
+        "Nome": 176,
+        "Instagram": "Beatriz Lara",
+        "Vendas": 137.0
+    },
+    {
+        "Nome": 177,
+        "Instagram": "Jo\u00e3o Vitor Ferry ",
+        "Vendas": 1920.0
+    },
+    {
+        "Nome": 178,
+        "Instagram": "Andr\u00e9 Parreiras",
+        "Vendas": 9529.0
+    },
+    {
+        "Nome": 179,
+        "Instagram": "Pedro Henrique Mendes",
+        "Vendas": 3045.0
+    },
+    {
+        "Nome": 180,
+        "Instagram": "Gabriela Muratori",
+        "Vendas": 2522.0
+    },
+    {
+        "Nome": 181,
+        "Instagram": "Carlos Henrique Barros",
+        "Vendas": 1000.0
+    },
+    {
+        "Nome": 182,
+        "Instagram": "Lucas Moreira",
+        "Vendas": 3520.0
+    },
+    {
+        "Nome": 183,
+        "Instagram": "Cecilia Nascimento",
+        "Vendas": 6889.0
+    },
+    {
+        "Nome": 184,
+        "Instagram": "Gabriel Fernandes ",
+        "Vendas": 8982.0
+    },
+    {
+        "Nome": 185,
+        "Instagram": "Raquel Stephanie",
+        "Vendas": 1565.0
+    },
+    {
+        "Nome": 186,
+        "Instagram": "Bianca Guedes",
+        "Vendas": 6141.0
+    },
+    {
+        "Nome": 187,
+        "Instagram": "Gustavo Sales",
+        "Vendas": 3355.0
+    },
+    {
+        "Nome": 188,
+        "Instagram": "Gabriel Fernandes ",
+        "Vendas": 8692.0
+    },
+    {
+        "Nome": 189,
+        "Instagram": "Vin\u00edcius Barros",
+        "Vendas": 4280.0
+    },
+    {
+        "Nome": 190,
+        "Instagram": "Ketely SIlva",
+        "Vendas": 8449.0
+    },
+    {
+        "Nome": 191,
+        "Instagram": "Lucas Lima ",
+        "Vendas": 789.0
+    },
+    {
+        "Nome": 192,
+        "Instagram": "Gabriel Miranda Lima",
+        "Vendas": 4315.0
+    },
+    {
+        "Nome": 193,
+        "Instagram": "Filipe Antonio Miranda Pereira Narcisio ",
+        "Vendas": 1617.0
+    },
+    {
+        "Nome": 194,
+        "Instagram": "Jo\u00e3o V\u00edtor Mendes de Ara\u00fajo ",
+        "Vendas": 6926.0
+    },
+    {
+        "Nome": 195,
+        "Instagram": "Lucas Filipe Machado Aquino",
+        "Vendas": 9579.0
+    },
+    {
+        "Nome": 196,
+        "Instagram": "higor wagner",
+        "Vendas": 7818.0
+    },
+    {
+        "Nome": 197,
+        "Instagram": "Illquer Yalle Nunes Am\u00e2ncio",
+        "Vendas": 5740.0
+    },
+    {
+        "Nome": 198,
+        "Instagram": "Lucas Faria da Silveira",
+        "Vendas": 8866.0
+    },
+    {
+        "Nome": 199,
+        "Instagram": "Luan Henrique Rodrigues Alane",
+        "Vendas": 5841.0
+    },
+    {
+        "Nome": 200,
+        "Instagram": "Gabriel Reis",
+        "Vendas": 6639.0
+    },
+    {
+        "Nome": 201,
+        "Instagram": "Marcelo Miranda",
+        "Vendas": 5708.0
+    },
+    {
+        "Nome": 202,
+        "Instagram": "Ana Paula Vieira",
+        "Vendas": 9324.0
+    },
+    {
+        "Nome": 203,
+        "Instagram": "Gabriella Ramos ",
+        "Vendas": 0.0
+    },
+    {
+        "Nome": 204,
+        "Instagram": "Arthur Eclesiastes Ramos Ferreira",
+        "Vendas": 6617.0
+    },
+    {
+        "Nome": 205,
+        "Instagram": "Tiago Salvador",
+        "Vendas": 4170.0
+    },
+    {
+        "Nome": 206,
+        "Instagram": "T\u00falio Medina Costa",
+        "Vendas": 5801.0
+    },
+    {
+        "Nome": 207,
+        "Instagram": "Maria Eduarda Gon\u00e7alves Tavares",
+        "Vendas": 1079.0
+    },
+    {
+        "Nome": 208,
+        "Instagram": "Julia Moreira Arcebispo",
+        "Vendas": 2580.0
+    },
+    {
+        "Nome": 209,
+        "Instagram": "Priscilla Aquila Souza Oliveira",
+        "Vendas": 1309.0
+    },
+    {
+        "Nome": 210,
+        "Instagram": "Breno Moreira Leite ",
+        "Vendas": 2052.0
+    },
+    {
+        "Nome": 211,
+        "Instagram": "Jo\u00e3o Vitor Serejo",
+        "Vendas": 6090.0
+    },
+    {
+        "Nome": 212,
+        "Instagram": "Frederico Rodrigues ",
+        "Vendas": 6598.0
+    },
+    {
+        "Nome": 213,
+        "Instagram": "Vinicius Gros",
+        "Vendas": 574.0
+    },
+    {
+        "Nome": 214,
+        "Instagram": "Lara Ribeiro Maia",
+        "Vendas": 6567.0
+    },
+    {
+        "Nome": 215,
+        "Instagram": "Gabriella Ramos",
+        "Vendas": 8005.0
+    },
+    {
+        "Nome": 216,
+        "Instagram": "Bernardo Ramos",
+        "Vendas": 604.0
+    },
+    {
+        "Nome": 217,
+        "Instagram": "Ana Beatriz ",
+        "Vendas": 2036.0
+    },
+    {
+        "Nome": 218,
+        "Instagram": "Gabriel Tadeu Eustaquio",
+        "Vendas": 4263.0
+    },
+    {
+        "Nome": 219,
+        "Instagram": "Paola Santos",
+        "Vendas": 5224.0
+    },
+    {
+        "Nome": 220,
+        "Instagram": "Caio Souza Grossi",
+        "Vendas": 493.0
+    },
+    {
+        "Nome": 221,
+        "Instagram": "Kaike Roberto",
+        "Vendas": 4760.0
+    },
+    {
+        "Nome": 222,
+        "Instagram": "Lucas Santos",
+        "Vendas": 8875.0
+    },
+    {
+        "Nome": 223,
+        "Instagram": "Walerson Fonseca",
+        "Vendas": 7852.0
+    },
+    {
+        "Nome": 224,
+        "Instagram": "Regis valker",
+        "Vendas": 5798.0
+    },
+    {
+        "Nome": 225,
+        "Instagram": "Carlos Matos",
+        "Vendas": 4628.0
+    },
+    {
+        "Nome": 226,
+        "Instagram": "Frederico Santos",
+        "Vendas": 1030.0
+    },
+    {
+        "Nome": 227,
+        "Instagram": "Yago Magalhaes Neri",
+        "Vendas": 4974.0
+    },
+    {
+        "Nome": 228,
+        "Instagram": "Leonardo Oliveira",
+        "Vendas": 6738.0
+    },
+    {
+        "Nome": 229,
+        "Instagram": "Renan Quevedo Starling",
+        "Vendas": 6097.0
+    },
+    {
+        "Nome": 230,
+        "Instagram": "Eduardo Vilela",
+        "Vendas": 3445.0
+    },
+    {
+        "Nome": 231,
+        "Instagram": "Germano Garcia ",
+        "Vendas": 368.0
+    },
+    {
+        "Nome": 232,
+        "Instagram": "Brenda Evangelista Peixoto",
+        "Vendas": 9286.0
+    },
+    {
+        "Nome": 233,
+        "Instagram": "Jo\u00e3o Gabriel Martins Gulart",
+        "Vendas": 9704.0
+    },
+    {
+        "Nome": 234,
+        "Instagram": "Guilherme Prandini",
+        "Vendas": 5643.0
+    },
+    {
+        "Nome": 235,
+        "Instagram": "Pedro Jansen",
+        "Vendas": 3337.0
+    },
+    {
+        "Nome": 236,
+        "Instagram": "Arthur Adriano ",
+        "Vendas": 3657.0
+    },
+    {
+        "Nome": 237,
+        "Instagram": "Valentina Alves",
+        "Vendas": 9288.0
+    },
+    {
+        "Nome": 238,
+        "Instagram": "Henrique Rodrigues",
+        "Vendas": 8614.0
+    },
+    {
+        "Nome": 239,
+        "Instagram": "Marcelo Roza",
+        "Vendas": 9527.0
+    },
+    {
+        "Nome": 240,
+        "Instagram": "Danylo Alves",
+        "Vendas": 4643.0
+    },
+    {
+        "Nome": 241,
+        "Instagram": "Arthur Magalh\u00e3es",
+        "Vendas": 6708.0
+    },
+    {
+        "Nome": 242,
+        "Instagram": "Jo\u00e3o Vitor Silva ",
+        "Vendas": 6919.0
+    },
+    {
+        "Nome": 243,
+        "Instagram": "Arthur Felipe Ferreira",
+        "Vendas": 3093.0
+    },
+    {
+        "Nome": 244,
+        "Instagram": "Raissa Gon\u00e7alves",
+        "Vendas": 9597.0
+    },
+    {
+        "Nome": 245,
+        "Instagram": "Geanderson Oliveira",
+        "Vendas": 5942.0
+    },
+    {
+        "Nome": 246,
+        "Instagram": "Jean Lucas da Silva",
+        "Vendas": 2126.0
+    },
+    {
+        "Nome": 247,
+        "Instagram": "J\u00falio C\u00e9sar Barbosa",
+        "Vendas": 3300.0
+    },
+    {
+        "Nome": 248,
+        "Instagram": "Alexandre paiva",
+        "Vendas": 8080.0
+    },
+    {
+        "Nome": 249,
+        "Instagram": "Luisa Assis",
+        "Vendas": 2018.0
+    },
+    {
+        "Nome": 250,
+        "Instagram": "Luan Oliveira",
+        "Vendas": 7324.0
+    },
+    {
+        "Nome": 251,
+        "Instagram": "Paula Caroline Caldeira",
+        "Vendas": 2225.0
+    },
+    {
+        "Nome": 252,
+        "Instagram": "Lucas Silveira",
+        "Vendas": 2105.0
+    },
+    {
+        "Nome": 253,
+        "Instagram": "Heitor Campos",
+        "Vendas": 7200.0
+    },
+    {
+        "Nome": 254,
+        "Instagram": "Fernando Balbino ",
+        "Vendas": 2228.0
+    },
+    {
+        "Nome": 255,
+        "Instagram": NaN,
+        "Vendas": 0.0
+    },
+    {
+        "Nome": 256,
+        "Instagram": NaN,
+        "Vendas": 0.0
+    },
+    {
+        "Nome": 257,
+        "Instagram": NaN,
+        "Vendas": 0.0
+    },
+    {
+        "Nome": 258,
+        "Instagram": NaN,
+        "Vendas": 0.0
+    },
+    {
+        "Nome": 259,
+        "Instagram": NaN,
+        "Vendas": 0.0
+    },
+    {
+        "Nome": 260,
+        "Instagram": NaN,
+        "Vendas": 0.0
+    }
+]
