@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vendedores UFMZERO</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        .card {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 250px;
+        }
+        .card img {
+            width: 100%;
+            height: auto;
+            border-radius: 50%;
+        }
+        .card h2 {
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+        .card p {
+            margin: 5px 0;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Vendedores UFMZERO</h1>
+    <div class="container" id="vendedores-container">
+        <!-- Os vendedores serão inseridos aqui via JavaScript -->
+    </div>
+
+    <script>
+        // Carregar o arquivo JSON com as informações dos vendedores
+        fetch('vendedores.json')
+            .then(response => response.json())
+            .then(data => {
+                const container = document.getElementById('vendedores-container');
+                
+                // Iterar sobre cada vendedor e criar o HTML correspondente
+                data.forEach(vendedor => {
+                    const card = document.createElement('div');
+                    card.classList.add('card');
+                    
+                    card.innerHTML = `
+                        <h2>${vendedor.Nome}</h2>
+                        <p><strong>Instagram:</strong> ${vendedor.Instagram}</p>
+                        <p><strong>Vendas:</strong> ${vendedor.Vendas}</p>
+                    `;
+                    
+                    container.appendChild(card);
+                });
+            })
+            .catch(error => console.error('Erro ao carregar os dados:', error));
+    </script>
+
+</body>
+</html>
