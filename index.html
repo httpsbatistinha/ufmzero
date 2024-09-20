@@ -45,11 +45,23 @@
     </div>
 
     <script>
+        // Debugging: Verificar se o script está sendo executado
+        console.log("Script HTML carregado.");
+
         // Carregar o arquivo JSON com as informações dos vendedores
-        fetch('vendedores.json')
-            .then(response => response.json())
+        fetch('./vendedores.json') // Ou use: 'https://seuusuario.github.io/ufmzero/vendedores.json'
+            .then(response => {
+                // Debugging: Verificar se o arquivo foi encontrado
+                if (!response.ok) {
+                    throw new Error(`Erro ao carregar vendedores.json: ${response.status}`);
+                }
+                return response.json();
+            })
             .then(data => {
                 const container = document.getElementById('vendedores-container');
+                
+                // Debugging: Verificar o conteúdo dos dados
+                console.log("Dados carregados:", data);
                 
                 // Iterar sobre cada vendedor e criar o HTML correspondente
                 data.forEach(vendedor => {
@@ -65,7 +77,12 @@
                     container.appendChild(card);
                 });
             })
-            .catch(error => console.error('Erro ao carregar os dados:', error));
+            .catch(error => {
+                // Debugging: Mostrar erro no console
+                console.error('Erro ao carregar os dados:', error);
+                // Mostrar erro na página
+                document.getElementById('vendedores-container').innerHTML = `<p>Erro ao carregar os dados: ${error.message}</p>`;
+            });
     </script>
 
 </body>
